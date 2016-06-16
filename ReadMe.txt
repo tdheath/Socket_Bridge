@@ -1,0 +1,1 @@
+C++ class designed to bridge a TCP and UDP socket together, forwarding packets received from one on to the other and vice-versa. It makes use of the Boost ASIO library in order to accomplish this asynchronously. It should be ready for integration with any C++ project, provided that the libraries are available.
